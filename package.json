@@ -1,0 +1,23 @@
+{
+  "name": "react-redux-chatbot",
+  "version": "1.0.0",
+  "description": "chatbot using reactjs and redux",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harrshaa/React-Redux-ChatBot.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harrshaa/React-Redux-ChatBot/issues"
+  },
+  "homepage": "https://github.com/Harrshaa/React-Redux-ChatBot#readme"
+}
